@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    flex: 2;
+    color:aqua;
+
+}
+body{
+    background-image: url('colchon.png');
+    background-repeat: no-repeat;
+    font-size: large;
+  
+}
+h1{
+    color: rgb(216, 96, 17);
+    font-size: xx-large;
+}
+nav{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    align-content: center;
+    flex: 1;
+}
+img{
+    height:max-content;
+}
