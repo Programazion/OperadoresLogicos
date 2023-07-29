@@ -27,3 +27,13 @@ nav{
 img{
     height:max-content;
 }
+.container-2{
+    color: brown;
+    display: flex;
+    flex-direction: column-reverse;
+    border-style: dashed;
+    align-content:right;
+    margin-bottom: 10%;
+    flex: 2;
+   
+}
